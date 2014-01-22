@@ -44,3 +44,5 @@
 (check-expect (calculate-dot-product list2) (+ 8 (* 9 9 9) 8))
 
 (check-expect (calculate-dot-product list3) (+ (expt 2 5) (expt 9 5) (expt 2 5)))
+
+"I really really hope that this works well :)"
